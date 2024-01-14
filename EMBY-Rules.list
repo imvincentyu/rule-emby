@@ -1,10 +1,9 @@
-DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud,🎬 EMBY
-DOMAIN-SUFFIX,emby-mix.atomlantis.cloud,🎬 EMBY
-DOMAIN-SUFFIX,emby.kim,🎬 EMBY
-DOMAIN-SUFFIX,tv.ash.yt,🎬 EMBY
-DOMAIN-SUFFIX,789.123456.al,🎬 EMBY
-DOMAIN-SUFFIX,emby.aca.best,🎬 EMBY
-DOMAIN-SUFFIX,porn.aca.best,🎬 EMBY
-DOMAIN-SUFFIX,ntrrr.am.sb,🎬 EMBY
-DOMAIN-SUFFIX,push-kr.misakaf.org,🎬 EMBY
-DOMAIN-KEYWORD,emby,🎬 EMBY
+DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
+DOMAIN-SUFFIX,emby.kim
+DOMAIN-SUFFIX,tv.ash.yt
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,emby.aca.best
+DOMAIN-SUFFIX,porn.aca.best
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,push-kr.misakaf.org
+DOMAIN-KEYWORD,emby
